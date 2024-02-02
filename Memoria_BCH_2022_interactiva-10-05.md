@@ -1187,3 +1187,97 @@ En cuanto al desempeño financiero, la utilidad neta alcanzó a $5.497 mil millo
 |Instrumentos financieros de capital regulatorio emitidos|7.794.260|9.570.791|22,8%|
 |Total Patrimonio|24.786.934|28.259.483|14,0%|
 
+Los ingresos operacionales registraron un incremento de 24,0% respecto al ejercicio previo. La variación se explica principalmente por los mayores intereses y reajustes netos (32,6%), producto del aumento de los volúmenes de colocaciones y de mayores reajustes, y por mayores comisiones netas (5,8%). Como resultado de lo anterior, el indicador de ingresos operacionales sobre colocaciones promedio aumentó hasta 7,0% en 2022 desde el 6,4% registrado al cierre del ejercicio previo.
+
+Por su parte, los gastos operacionales anotaron un crecimiento anual de 11,0%, por debajo de la inflación, reflejando los esfuerzos de la industria por contener los gastos ante la persistente tendencia de compresión de los márgenes de intermediación. El avance responde fundamentalmente al reconocimiento de la mayor inflación del periodo, tanto en los gastos por obligaciones y beneficios a los empleados, como en los gastos de administración. En este contexto, el indicador de eficiencia alcanzó a 40,6% en el ejercicio versus un 45,3% en 2021.
+
+En tanto, el gasto por pérdidas crediticias registró un incremento de 49,2% anual. En esta evolución, deben distinguirse varios elementos. En primer lugar, en 2021 se observaron niveles de gasto por riesgo de crédito excepcionalmente bajos, toda vez que parte de los excedentes de liquidez repercutieron favorablemente en los parámetros de comportamiento de los deudores, principalmente en la morosidad. Durante 2022 este fenómeno se mantuvo durante gran parte del año, con una gradual pero consistente tendencia hacia la normalización hacia el cuarto trimestre. En este contexto, la industria constituyó un importante monto de provisiones adicionales, reconociendo condiciones reales de crédito más restrictivas, en un entorno de deterioro e incertidumbre económica. Con todo, el indicador de gasto por pérdidas crediticias sobre colocaciones promedio alcanzó a 1,40% en 2022, por sobre el 1,06% registrado en 2021.
+
+Para 2023 los desafíos de la industria son diversos, entre ellos: (i) compatibilizar el crecimiento del negocio con un escenario económico contractivo, con la normalización de los niveles de morosidad, y con las permanentes exigencias en materia de inversión en transformación digital y tecnología, (ii) abordar proactivamente la creciente demanda regulatoria y competitiva, (iii) profundizar los esfuerzos en eficiencia y productividad como mitigante de la compresión de márgenes e ingresos, y (iv) reforzar y consolidar los avances en calidad de servicio, experiencia de cliente y oferta digital para satisfacer las necesidades y crecientes expectativas de actuales y futuros clientes.
+
+#### Resultados del sistema bancario
+(Cifras en millones de pesos)
+
+|Estado de resultados|2021|2022|Var. %|
+|---|---|---|---|
+|Total Ingresos Operacionales|13.218.582|16.388.782|24,0%|
+|Ingreso neto por intereses|6.007.833|7.879.398|31,2%|
+|Ingreso neto por reajustes|3.506.601|4.735.369|35,0%|
+|Ingreso neto por comisiones|2.339.427|2.474.766|5,8%|
+|Resultado financiero neto|1.141.393|995.923|-12,7%|
+|Resultado por inversiones en sociedades|-955|46.314|–|
+|Resultado de activos no corrientes para la venta|10.053|-1.827|-118,2%|
+|Otros ingresos operacionales|214.230|258.839|20,8%|
+|Total Gastos Operacionales|-5.988.912|-6.649.694|11,0%|
+|Gastos por pérdidas crediticias|-2.185.991|-3.261.815|49,2%|
+|Resultado antes de impuestos|5.043.679|6.477.273|28,4%|
+|Impuestos|-1.216.970|-980.140|-19,5%|
+|Resultado del ejercicio|3.826.709|5.497.133|43,7%|
+|Resultado atribuible a los propietarios|3.702.979|5.395.585|45,7%|
+|Interés no controlador|123.730|101.548|-17,9%|
+
+|Principales indicadores|2021|2022|
+|---|---|---|
+|Utilidad sobre Capital y Reservas Promedio|17,4%|22,5%|
+|Ingresos Operacionales / Colocaciones promedio|6,4%|7,0%|
+|Eficiencia|45,3%|40,6%|
+|Provisiones por Riesgo / Colocaciones Promedio|1,1%|1,4%|
+|Patrimonio Efectivo / Activos Ponderados por Riesgo|14,9%|15,7%(*)|
+
+(*) A noviembre 2022.
+
+#### Estado de resultados
+(Cifras en millones de pesos nominales, excepto porcentajes)
+
+
+|Estado de resultados|2021|2022|Var. %|
+|---|---|---|---|
+|Total Ingresos Operacionales|2.199.024|3.115.793|41,7%|
+|Ingreso Financiero Neto|1.704.499|2.538.931|49,0%|
+|Ingreso neto por intereses|1.098.397|1.279.666|16,5%|
+|Ingreso neto por reajustes|455.145|955.880|110,0%|
+|Resultado financiero neto|150.957|303.385|101,0%|
+|Ingreso neto por comisiones|468.362|531.619|13,5%|
+|Resultado por inversiones en sociedades|2.240|13.580|506,3%|
+|Resultado de activos no corrientes para la venta|4.109|2.004 |51,2%|
+|Otros ingresos operacionales|19.814|29.659|49,7%|
+|Total Gastos Operacionales|-871.487|-995.483|14,2%|
+|Gastos por pérdidas crediticias|-357.065|-435.118|21,9%|
+|Resultado antes de impuestos|970.472|1.685.192|73,6%|
+|Impuestos|-178.280|-275.757|54,7%|
+|Resultado del ejercicio|792.192|1.409.435|77,9%|
+|Resultado atribuible a los propietarios|792.191|1.409.433|77,9%|
+|Interés no controlador|1|2|100,0%|
+
+### Utilidad
+
+En el año 2022, Banco de Chile registró su mayor resultado histórico al anotar una utilidad neta de $1.409.435 millones, lo que representa un aumento de 77,9% respecto del ejercicio 2021. En materia de rentabilidad, alcanzó un indicador de utilidad sobre capital y reservas promedio de 34,3%, cifra superior al 21,2% del año previo y mayor al 22,5% obtenido por la industria. Al deducir el efecto dilusivo de la inflación sobre el valor del capital y reservas, este indicador asciende a 21,3%, superior al 14,3% registrado en el ejercicio anterior y muy por sobre el 8,6% del sistema bancario.
+
+Este elevado desempeño tiene un importante componente transitorio, ya que estuvo fuertemente determinado por el efecto de la alta inflación registrada en el año, equivalente a una variación de UF de 13,3%, el mayor nivel registrado desde 1992, generando un significativo efecto en los ingresos operacionales asociado al descalce estructural UF/$ del Banco. Lo anterior fue compensado en parte por un mayor gasto por pérdidas crediticias respecto del registro previo, debido en gran parte a la constitución de provisiones adicionales dado el contexto atípico y transitorio de las condiciones crediticias y del comportamiento de pago de clientes. A ello se adicionaron mayores gastos operacionales respecto al ejercicio anterior, aumento explicado principalmente por el reconocimiento del efecto de la inflación y de otros efectos puntuales asociados a gastos del personal.
+
+Las transformaciones y eventos que han impactado al país, ya sean internos o externos, desde fines del año 2019, desafían a los agentes económicos a abordar nuevos riesgos. En este contexto, Banco de Chile, en un rol proactivo, implementó diversas iniciativas de apoyo a sus clientes, logró mantener elevados estándares de calidad de servicio, resguardó una adecuada relación riesgo–retorno y gestionó diligentemente los riesgos de un escenario caracterizado por elevados niveles de incertidumbre. Así también, mantuvo su foco en la transformación digital, en la búsqueda de mayores niveles de eficiencia y productividad, y en distintas iniciativas para sostener su trayectoria de liderazgo inspirado en su propósito de contribuir al desarrollo del país.
+
+### Ingresos operacionales
+
+Los ingresos operacionales totales alcanzaron a $3.115.793 millones al cierre de diciembre 2022, registrando un aumento de $916.769 millones respecto del 2021, equivalente a un 41,7%. Esta expansión se explica principalmente por el efecto de la mayor inflación antes mencionado, por el mayor nivel de tasas de interés, y por mayores ingresos por comisiones.
+
+#### a. Ingreso financiero neto
+Durante el periodo 2022, el ingreso financiero neto del Banco totalizó $2.538.931 millones, un 49,0% por sobre lo registrado en 2021. El alza de $834.432 millones se explica por:
+
+* Mayores ingresos por $394.532 millones provenientes del aporte de la exposición estructural activa neta en UF como consecuencia de la mayor inflación.
+* Un mayor margen de captaciones a la vista por $370.866 millones como consecuencia del aumento en las tasas de interés, lo que compensó la caída de 8,0% en volúmenes promedio.
+* Mayores ingresos por la gestión de las carteras de negociación e instrumentos de deuda por $49.838 millones impulsados por: (i) los movimientos en las tasas de interés y su efecto positivo sobre los instrumentos de renta fija administrados por el Banco y sus filiales (ii) el efecto de la mayor inflación sobre el devengo de los instrumentos de renta fija y (iii) la mayor volatilidad del tipo de cambio que generó mayores ingresos producto de la gestión de la posición intra-día en moneda extranjera, y un mayor volumen de transacciones en ventas y estructurados.
+* Un mayor margen de colocaciones por $17.640 millones, producto del crecimiento de 8,6% de los volúmenes promedio.
+* Un aumento anual de $5.089 millones en ingresos por la gestión de activos y pasivos, explicado por los elevados niveles de inflación y cambios en la pendiente de la curva de tasas. Lo anterior fue compensado por una pérdida generada por la venta de activos financieros medidos a valor razonable a través de ORI.
+
+#### b. Comisiones Netas
+
+En el ejercicio 2022 las comisiones netas alcanzaron a $531.619 millones, lo que representa un aumento de 13,5% anual, equivalente a $63.257 millones. Con este desempeño, Banco de Chile mantiene el liderazgo de la industria en comisiones netas, alcanzando una participación de mercado de 21,5% en 2022.
+
+La expansión de los ingresos por comisiones del ejercicio se relaciona a:
+
+* Un aumento de las comisiones asociadas a servicios transaccionales por $36.897 millones, que se explica, en primer lugar, por mayores transacciones de tarjetas de crédito como resultado de una mayor actividad comercial y uso de medios de pago, y el efecto de la inflación en las tarifas. En segundo lugar, por mayores comisiones derivadas de las cuentas corrientes y sobregiros como consecuencia del aumento de la base de clientes del Banco, y el efecto de la inflación. En tercer lugar, por mayores comisiones de cuentas vista y ATM, en línea con mayores transacciones de tarjetas de débito.
+* Mayores comisiones por administración y gestión de fondos por $12.807 millones como resultado de la mayor preferencia de inversionistas por fondos de renta variable, y de una mejora en los márgenes de los fondos de renta fija en un contexto de tasas de interés más altas.
+* Un avance de las comisiones asociadas a créditos contingentes por $5.689 millones, como resultado de una mayor actividad en productos de comercio exterior.
+* Mayores comisiones por intermediación de seguros por $5.383 millones, asociados principalmente a la expansión de la cartera de consumo. Mayores comisiones por asesoría financiera por $4.337 millones por transacciones asociadas a fusiones y adquisiciones.
+
